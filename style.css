@@ -165,15 +165,13 @@ h2 {
 .fourth {
     background-color: #3882f6;
     margin: 75px;
+padding: 40px 90px;
     border-radius: 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
-    padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 10px;
+    
 }
 
 .left {
